@@ -1,0 +1,78 @@
+		button {
+		    border: none;
+		    color: white;
+		    height: 80px;
+		    width: 160px;
+		    padding: 15px 32px;
+		    text-align: center;
+		    text-decoration: none;
+		    display: inline-block;
+		    font-size: 16px;
+		    border-radius: 10px;
+		    margin-left: 10px;
+		}
+		#main-container{
+			background-color: grey;
+			border: none;
+		    color: white;
+		    padding: 15px 32px;
+		    text-align: center;
+		    text-decoration: none;
+		    display: inline-block;
+		    font-size: 16px;
+		}
+		#goalNumber{
+			font-size: 72px;
+			float: left;
+			text-align: center;
+			vertical-align: middle;
+			color: black;
+			width: 200px; 
+			height: 100px;
+			line-height: 100px;
+    		background-color: #CCCCCC;
+    		margin-bottom: 40px;
+		}
+		#score{
+			font-size: 40px;
+			text-align: center;
+			vertical-align: middle;
+			color: blue;
+			width: 100px; 
+			height: 100px;
+			line-height: 100px;
+    		background-color: white;
+    		display: inline-block;
+    		margin-top: 20px;
+		}
+		#win-lose{
+			font-size: 64px;
+		    display: inline-block;
+			text-align: center;
+			vertical-align: middle;
+			color: black;
+			line-height: 100px;
+    		margin-left: 200px;
+		}
+		.crystal-buttons{
+			display: inherit;
+		}
+		#instructions{
+			text-align: left;
+			border-style: solid;
+			border-color: black;
+			background-color: white;
+			color: black;
+			margin-bottom: 20px;
+			padding-left: 10px;
+		}
+		#wins-lose{
+			display:inline-block;
+			float:left;
+			text-align:
+			left;margin-left:5px;
+			font-weight:bold;
+		}
+		#wins{
+			margin-bottom:10px;
+		}
